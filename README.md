@@ -9,3 +9,5 @@
 <p>In the Spring of 2020, three regional PHP Meetup groups formed an alliance to offer virtual meetings during the global pandemic. Five additional user groups have joined since. This alliance, called <strong>MergePHP</strong>, provides educational services to more than 10,000 web developers.</p>
 
 <p>This educational service uses the Meetup.com infrastructure (events and message boards) to coordinate learning opportunities for its members.</p>
+
+<p>This repository holds code written for virtual self-study group communications published on <strong>Boston PHP Meetup</strong>.</p>
